@@ -4,5 +4,5 @@
    <name>KatalonGitTest1</name>
    <tag></tag>
    <UUID>4c384468-31e1-4580-bf3b-a939d2d6ab9a</UUID>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>0</pageLoadTimeout>
 </Project>
