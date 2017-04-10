@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 57.0.2987.133,,2017-04-10 14:01:07,2017-04-10 14:01:15,8.327s,PASSED
+,,,,,,
+Test Cases/Test 1 by Tom,Chrome 57.0.2987.133,,2017-04-10 14:01:07,2017-04-10 14:01:15,7.976s,PASSED
+openBrowser,Chrome 57.0.2987.133,,2017-04-10 14:01:08,2017-04-10 14:01:10,2.185s,PASSED
+navigateToUrl,Chrome 57.0.2987.133,,2017-04-10 14:01:10,2017-04-10 14:01:15,5.270s,PASSED
+closeBrowser,Chrome 57.0.2987.133,,2017-04-10 14:01:15,2017-04-10 14:01:15,0.102s,PASSED
+,,,,,,
+,Chrome 57.0.2987.133,,2017-04-10 14:01:15,1970-01-01 05:30:00,,INFO
